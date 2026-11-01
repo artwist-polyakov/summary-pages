@@ -1,0 +1,61 @@
+{
+  "body": [
+    {
+      "tag": "p",
+      "children": [
+        " Дорогие друзья, приглашаем Вас присоединиться к нашим профилям в социальных сетях."
+      ]
+    },
+    {
+      "tag": "p",
+      "children": [
+        " Вас ждет все самое интересное и актуальное: скидки, акции, новости и много полезной информации."
+      ]
+    },
+    {
+      "tag": "p",
+      "children": [
+        {
+          "tag": "a",
+          "attrs": {
+            "href": "https://t.me/metallik_co"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attrs": {
+                "src": "/summary-pages/2026/2026-11/metallik-demo/images/news/3310c0a6b40717c8.webp",
+                "width": 1024,
+                "height": 1024,
+                "alt": "tg (1)"
+              }
+            }
+          ]
+        },
+        " "
+      ]
+    },
+    {
+      "tag": "p",
+      "children": [
+        {
+          "tag": "a",
+          "attrs": {
+            "href": "https://rutube.ru/channel/25387670/"
+          },
+          "children": [
+            {
+              "tag": "img",
+              "attrs": {
+                "src": "/summary-pages/2026/2026-11/metallik-demo/images/news/1c6a6eafe982c884.webp",
+                "width": 400,
+                "height": 400,
+                "alt": "Rutube1 (1)"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

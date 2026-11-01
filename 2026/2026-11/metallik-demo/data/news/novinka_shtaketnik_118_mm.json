@@ -1,0 +1,57 @@
+{
+  "body": [
+    {
+      "tag": "p",
+      "children": [
+        " ",
+        {
+          "tag": "br"
+        },
+        " "
+      ]
+    },
+    {
+      "tag": "p",
+      "children": [
+        " ",
+        {
+          "tag": "img",
+          "attrs": {
+            "src": "/summary-pages/2026/2026-11/metallik-demo/images/news/6cd582803cf49b43.webp",
+            "width": 716,
+            "height": 1024,
+            "alt": "[П цинк]Render3"
+          }
+        },
+        {
+          "tag": "img",
+          "attrs": {
+            "src": "/summary-pages/2026/2026-11/metallik-demo/images/news/91250086e8e741aa.webp",
+            "width": 716,
+            "height": 1024,
+            "alt": "М-образный"
+          }
+        },
+        " "
+      ]
+    },
+    {
+      "tag": "p",
+      "children": [
+        " В ассортименте появился М-образный и П-образный штакетник новой формы. "
+      ]
+    },
+    {
+      "tag": "p",
+      "children": [
+        " Ширина штакетника 118 мм. "
+      ]
+    },
+    {
+      "tag": "p",
+      "children": [
+        " Доступен в различных длинах и различных цветовых решениях-по каталогу RAL и в декоративных цветах. "
+      ]
+    }
+  ]
+}

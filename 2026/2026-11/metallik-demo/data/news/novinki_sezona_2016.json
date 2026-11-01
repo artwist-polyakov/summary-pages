@@ -1,0 +1,333 @@
+{
+  "body": [
+    {
+      "tag": "table",
+      "attrs": {
+        "caption": "Таблица из новости",
+        "minWidth": 640
+      },
+      "children": [
+        {
+          "tag": "tbody",
+          "children": [
+            {
+              "tag": "tr",
+              "children": [
+                {
+                  "tag": "td",
+                  "children": [
+                    " ",
+                    {
+                      "tag": "img",
+                      "attrs": {
+                        "src": "/summary-pages/2026/2026-11/metallik-demo/images/news/c47b7a67df4e5944.webp",
+                        "width": 188,
+                        "height": 113,
+                        "alt": "Иллюстрация к новости «Новинки сезона 2016»"
+                      }
+                    },
+                    " "
+                  ]
+                },
+                {
+                  "tag": "td",
+                  "children": [
+                    " ",
+                    {
+                      "tag": "b",
+                      "children": [
+                        "Колено 165°"
+                      ]
+                    },
+                    {
+                      "tag": "br"
+                    },
+                    " Предназначено для осевого смещения дымохода",
+                    {
+                      "tag": "br"
+                    },
+                    " "
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "tr",
+              "children": [
+                {
+                  "tag": "td",
+                  "children": [
+                    " ",
+                    {
+                      "tag": "img",
+                      "attrs": {
+                        "src": "/summary-pages/2026/2026-11/metallik-demo/images/news/a192b7cd924b4f66.webp",
+                        "width": 188,
+                        "height": 124,
+                        "alt": "Иллюстрация к новости «Новинки сезона 2016»"
+                      }
+                    },
+                    " "
+                  ]
+                },
+                {
+                  "tag": "td",
+                  "children": [
+                    " ",
+                    {
+                      "tag": "b",
+                      "children": [
+                        "Колено 150°"
+                      ]
+                    },
+                    {
+                      "tag": "br"
+                    },
+                    " Предназначено для осевого смещения дымохода",
+                    {
+                      "tag": "br"
+                    },
+                    " "
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "tr",
+              "children": [
+                {
+                  "tag": "td",
+                  "children": [
+                    " ",
+                    {
+                      "tag": "img",
+                      "attrs": {
+                        "src": "/summary-pages/2026/2026-11/metallik-demo/images/news/5fc2c63ead6018a7.webp",
+                        "width": 188,
+                        "height": 164,
+                        "alt": "Иллюстрация к новости «Новинки сезона 2016»"
+                      }
+                    },
+                    " "
+                  ]
+                },
+                {
+                  "tag": "td",
+                  "children": [
+                    " ",
+                    {
+                      "tag": "b",
+                      "children": [
+                        "Труба 0,25 одноконтурная"
+                      ]
+                    },
+                    {
+                      "tag": "br"
+                    },
+                    " ",
+                    {
+                      "tag": "b",
+                      "children": [
+                        " Труба 0,25 двухконтурная"
+                      ]
+                    },
+                    {
+                      "tag": "br"
+                    },
+                    " "
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "tr",
+              "children": [
+                {
+                  "tag": "td",
+                  "children": [
+                    " ",
+                    {
+                      "tag": "img",
+                      "attrs": {
+                        "src": "/summary-pages/2026/2026-11/metallik-demo/images/news/e2308b5237b30ba0.webp",
+                        "width": 188,
+                        "height": 188,
+                        "alt": "Иллюстрация к новости «Новинки сезона 2016»"
+                      }
+                    },
+                    " "
+                  ]
+                },
+                {
+                  "tag": "td",
+                  "children": [
+                    " ",
+                    {
+                      "tag": "b",
+                      "children": [
+                        "Консоль напольная"
+                      ]
+                    },
+                    {
+                      "tag": "br"
+                    },
+                    " Предназначена для установки на пол, под опору сэндвича и регулируется по высоте",
+                    {
+                      "tag": "br"
+                    },
+                    " "
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "tr",
+              "children": [
+                {
+                  "tag": "td",
+                  "children": [
+                    " ",
+                    {
+                      "tag": "img",
+                      "attrs": {
+                        "src": "/summary-pages/2026/2026-11/metallik-demo/images/news/cac922139a663bd9.webp",
+                        "width": 188,
+                        "height": 186,
+                        "alt": "Иллюстрация к новости «Новинки сезона 2016»"
+                      }
+                    },
+                    " "
+                  ]
+                },
+                {
+                  "tag": "td",
+                  "children": [
+                    " ",
+                    {
+                      "tag": "b",
+                      "children": [
+                        "Конвектор"
+                      ]
+                    },
+                    {
+                      "tag": "br"
+                    },
+                    " Устанавливается на банную или отопительную печь для эффективного использования тепла от первой трубы дымохода",
+                    {
+                      "tag": "br"
+                    },
+                    " "
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "tr",
+              "children": [
+                {
+                  "tag": "td",
+                  "children": [
+                    " ",
+                    {
+                      "tag": "img",
+                      "attrs": {
+                        "src": "/summary-pages/2026/2026-11/metallik-demo/images/news/f3cda6d7598d9e39.webp",
+                        "width": 188,
+                        "height": 180,
+                        "alt": "Иллюстрация к новости «Новинки сезона 2016»"
+                      }
+                    },
+                    " "
+                  ]
+                },
+                {
+                  "tag": "td",
+                  "children": [
+                    " ",
+                    {
+                      "tag": "b",
+                      "children": [
+                        "Телескоп"
+                      ]
+                    },
+                    {
+                      "tag": "br"
+                    },
+                    " ",
+                    {
+                      "tag": "ul",
+                      "children": [
+                        {
+                          "tag": "li",
+                          "children": [
+                            "длиной 250 мм (регулируется от 320 до 430 мм)",
+                            {
+                              "tag": "br"
+                            },
+                            " "
+                          ]
+                        },
+                        {
+                          "tag": "li",
+                          "children": [
+                            "длиной 500 мм (регулируется от 570 до 930 мм)"
+                          ]
+                        }
+                      ]
+                    },
+                    " ",
+                    {
+                      "tag": "br"
+                    },
+                    " "
+                  ]
+                }
+              ]
+            },
+            {
+              "tag": "tr",
+              "children": [
+                {
+                  "tag": "td",
+                  "children": [
+                    " ",
+                    {
+                      "tag": "img",
+                      "attrs": {
+                        "src": "/summary-pages/2026/2026-11/metallik-demo/images/news/90a0f4ce4ababe35.webp",
+                        "width": 188,
+                        "height": 145,
+                        "alt": "Иллюстрация к новости «Новинки сезона 2016»"
+                      }
+                    },
+                    " "
+                  ]
+                },
+                {
+                  "tag": "td",
+                  "children": [
+                    " ",
+                    {
+                      "tag": "b",
+                      "children": [
+                        "Сетка для камней"
+                      ]
+                    },
+                    {
+                      "tag": "br"
+                    },
+                    " Устанавливается непосредственно на дымоход банной печи. В сетку укладываются камни, которые экранируют помещение парной от жесткого теплового излучения дымохода.",
+                    {
+                      "tag": "br"
+                    },
+                    " "
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

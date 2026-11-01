@@ -1,0 +1,100 @@
+{
+  "body": [
+    {
+      "tag": "p",
+      "children": [
+        " Бак овальный навесной из нержавеющей стали для бани."
+      ]
+    },
+    {
+      "tag": "p",
+      "children": [
+        " Это самый большой бак для бани из стандартной серии."
+      ]
+    },
+    {
+      "tag": "p",
+      "children": [
+        " Если бак для воды этой модели использовать совместно с теплообменником , то можно решить сразу две задачи: Ваше банное помещение, оборудованное дымоходом и канализацией, будет обеспечено холодной водой, хранящейся в баке, и, вместе с тем, снабжено горячей водой, нагретой теплообменником."
+      ]
+    },
+    {
+      "tag": "p",
+      "children": [
+        " Объем 50 и 80 л."
+      ]
+    },
+    {
+      "tag": "table",
+      "attrs": {
+        "caption": "Таблица из новости",
+        "minWidth": 640
+      },
+      "children": [
+        {
+          "tag": "tbody",
+          "children": [
+            {
+              "tag": "tr",
+              "children": [
+                {
+                  "tag": "td",
+                  "children": [
+                    " ",
+                    {
+                      "tag": "img",
+                      "attrs": {
+                        "src": "/summary-pages/2026/2026-11/metallik-demo/images/news/d6555d5c30ff1faa.webp",
+                        "width": 1000,
+                        "height": 1000,
+                        "alt": "Бак овальный навесной"
+                      }
+                    },
+                    " "
+                  ]
+                },
+                {
+                  "tag": "td",
+                  "children": [
+                    " ",
+                    {
+                      "tag": "img",
+                      "attrs": {
+                        "src": "/summary-pages/2026/2026-11/metallik-demo/images/news/69cc6273190c6268.webp",
+                        "width": 1000,
+                        "height": 1000,
+                        "alt": "Бак овальный навесной2"
+                      }
+                    },
+                    " "
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "p",
+      "children": [
+        " Выбрать из ",
+        {
+          "tag": "a",
+          "attrs": {
+            "href": "https://metallik.ru/catalog/dymokhody/sistemy-podogreva-vody/baki/bak_navesnoy/"
+          },
+          "children": [
+            {
+              "tag": "b",
+              "children": [
+                "каталога"
+              ]
+            }
+          ]
+        },
+        "."
+      ]
+    }
+  ]
+}

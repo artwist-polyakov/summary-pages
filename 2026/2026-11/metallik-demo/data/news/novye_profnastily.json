@@ -1,0 +1,71 @@
+{
+  "body": [
+    {
+      "tag": "p",
+      "children": [
+        " ",
+        {
+          "tag": "img",
+          "attrs": {
+            "src": "/summary-pages/2026/2026-11/metallik-demo/images/news/a996e131ce28b759.webp",
+            "width": 417,
+            "height": 410,
+            "alt": "новые профн"
+          }
+        },
+        {
+          "tag": "br"
+        },
+        " "
+      ]
+    },
+    {
+      "tag": "p",
+      "children": [
+        " Расширение торгового ассортимента. "
+      ]
+    },
+    {
+      "tag": "p",
+      "children": [
+        " В разделе профнастил появились новые товарные позиции: профнастилы HC35 / C44 / HC44 / H60 / H75 / Н114.",
+        {
+          "tag": "br"
+        },
+        " "
+      ]
+    },
+    {
+      "tag": "p",
+      "children": [
+        " Любой объем, любой цвет по каталогу RAL. "
+      ]
+    },
+    {
+      "tag": "p",
+      "children": [
+        " Выбрать ",
+        {
+          "tag": "b",
+          "children": [
+            {
+              "tag": "a",
+              "attrs": {
+                "href": "https://metallik.ru/catalog/profnastil/profnastil1471/"
+              },
+              "children": [
+                {
+                  "tag": "u",
+                  "children": [
+                    "ПРОФНАСТИЛ"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        ". "
+      ]
+    }
+  ]
+}
